@@ -1,0 +1,23 @@
+{
+    "title": "서성식의 eBook",
+    "author": "서성식",
+    "styles": {
+      "website": "assets/css/website.css",
+      "ebook": "assets/css/ebook.css",
+      "pdf": "assets/css/pdf.css",
+      "mobi": "assets/css/mobi.css",
+      "epub": "assets/css/epub.css"
+    },
+    "plugins": [
+      "toggle-chapters",
+      "expandable-chapters-small",
+      "theme-darkblue",
+      "highlight-1"
+    ],
+    "pluginsConfig": {
+    },
+    "structure": {
+      "readme": "INTRO.md"
+    },
+    "language": "ko"
+  }
