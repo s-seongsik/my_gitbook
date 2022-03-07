@@ -9,7 +9,6 @@
       "epub": "assets/css/epub.css"
     },
     "plugins": [
-      "toggle-chapters",
       "expandable-chapters-small",
       "theme-darkblue",
       "highlight-1"

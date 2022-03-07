@@ -140,3 +140,18 @@ new App(document.querySelector('#app'));
 
 컴포넌트를 클래스로 바꿔 유연하게 만들어봤다. 무엇보다 컴포넌트 코드의 사용 방법을 강제할 수 있기 대문에 코드를 유지보수하고 관리할 때 매우 이롭다.
 
+<br>
+
+## 3. 모듈화 
+* ES6 모듈시스템을 사용하여 프로젝트 구조를 모듈화 해보자.
+
+```
+.
+├── index.html
+└── src
+    ├── app.js              # ES Module의 entry file
+    ├── components          # Component 역할을하는 것들
+    │   └── Items.js
+    └── core                # 구현에 필요한 코어들
+        └── Component.js
+```
