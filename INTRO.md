@@ -8,4 +8,5 @@ Javascript와 Typescript를 공부하고 eBook으로 작성하고 있습니다.
 ************************************
 
 ## 목차 
-* [Javascript]](/pages/vanilla-js/README.md)
+* [Javascript](/pages/javascript/README.md)
+* [vanilla Javascript](/pages/vanilla-javascript/README.md)
