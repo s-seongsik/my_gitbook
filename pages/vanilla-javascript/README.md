@@ -7,5 +7,4 @@
 ***************************************************************
 
 ## 목차 
-* [컴포넌트와 상태관리란](/pages/vanilla-js/vanilla-js_00.md)
-* [웹 컴포넌트 구현하기](/pages/vanilla-js/vanilla-js_01.md)
+* [웹 컴포넌트 구현하기](/pages/vanilla-javascript/vanilla-js_01.md)

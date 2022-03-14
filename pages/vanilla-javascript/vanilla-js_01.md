@@ -759,7 +759,7 @@ export default class Items extends Component {
 
 * src/components/ItemFilter.js
 
-```
+```js
 import Component from "../core/Component.js";
 
 export default class ItemFilter extends Component {
