@@ -4,6 +4,5 @@
 
 * [Web Browser](/pages/frontEnd-knowledge/web-browser/README.md)
 * [HTML](/pages/frontEnd-knowledge/html/README.md)
-* [CSS & HTML](/pages/frontEnd-knowledge/css&html/README.md)
 * [Javascirpt](/pages/frontEnd-knowledge/javascirpt/README.md)
 
