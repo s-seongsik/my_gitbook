@@ -9,8 +9,9 @@
     * [HTML Elements 이벤트 핸들러](/pages/html-dom/elements-eventHandlers.md)
 
 * [Javascript](pages/javascript/README.md)
+    * [형 변환](/pages/javascript/01.type-conversions.md)
+    * [엄격 모드](/pages/javascript/02.strict-mode.md)
     * [Class 문법](pages/javascript/class.md)
-    * [반복문(forEach,for in,for of)](/pages/javascript/foreach.md)
     
 * [Vanilla Javascript](pages/vanilla-javascript/README.md)
     * [웹 컴포넌트 구현하기](pages/vanilla-javascript/vanilla-js_01.md)
