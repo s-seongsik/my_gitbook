@@ -6,7 +6,6 @@
     * [HTML Elements 찾기](/pages/html-dom/elements-finding.md)
     * [HTML Elements 내용 및 속성 변경](/pages/html-dom/elements-changing.md)
     * [HTML Elements 추가 및 삭제하기](/pages/html-dom/elements-add-del.md)
-    * [HTML Elements 이벤트 핸들러](/pages/html-dom/elements-eventHandlers.md)
 
 * [Javascript](pages/javascript/README.md)
     * [형 변환](/pages/javascript/01.type-conversions.md)
